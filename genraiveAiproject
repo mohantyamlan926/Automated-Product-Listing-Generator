@@ -1,0 +1,12 @@
+c:\Users\mohan\Downloads\E-Commerce-Website-master\ai_product_generator\
+├── frontend/             # Glassmorphic Web Frontend (index.html, styles.css, app.js)
+├── api_server.py         # FastAPI REST API Backend Server
+├── database.py           # SQLite Database Layer (listings.db)
+├── gemini_service.py     # Gemini Generative AI Engine
+├── presets.py            # 1-Click product samples
+├── run_fullstack.py      # 1-Click launcher script
+├── Procfile              # Render / Heroku production server launcher
+├── render.yaml           # Render 1-click cloud deployment manifest
+├── vercel.json           # Vercel serverless configuration
+├── Dockerfile            # Container image build file
+└── requirements.txt      # Python dependencies
